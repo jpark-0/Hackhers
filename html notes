@@ -1,0 +1,28 @@
+<DOCTYPE html>
+
+<html>
+
+<head>
+<title>My Title</title>
+</head>
+
+<body>
+<p>This is the first sentence!</p>
+<p><b><i> This text is bold and italic. </b></i></p>
+</body>
+
+<a href="google.com">
+<p><strong> hi </strong></p>
+<img src="gfskjhsgkhkdfghfdkjghd.jpg">
+
+
+<!-- This is a comment so anything between these arrows is invisible! -->
+</head>
+
+<div class="cities">
+	<h2>London</h2>
+		<p>London is the capital city of England.
+		</p>
+
+</div>
+
